@@ -12,6 +12,6 @@ public class EmployeeController {
 
     private final EmployeeServiceImpl employeeServiceImpl ;
 
-    @PostMapping("/create")
+
     
 }
